@@ -1,0 +1,48 @@
+- location: Bellegrass AM 
+  monday-times: 
+    - 5:10 AM
+  tuesday-times:
+  wednesday-times:
+    - 5:10 AM
+  thursday-times:
+  friday-times:
+    - 5:10 AM
+
+- location: Downtown Train Depot
+  monday-times: 
+    - 6:00 AM
+  tuesday-times:
+  wednesday-times:
+    - 6:00 AM
+  thursday-times:
+  friday-times:
+    - 6:00 AM
+
+- location: Thames Elementary AM
+  monday-times: 
+  tuesday-times:
+    - 5:00 AM
+  wednesday-times:
+  thursday-times:
+    - 5:00 AM
+  friday-times:
+
+- location: Thames Elementary PM
+  monday-times: 
+    - 5:20 PM
+  tuesday-times:
+  wednesday-times:
+    - 5:20 PM
+  thursday-times:
+    - 5:20 PM
+  friday-times:
+    
+
+- location: Oak Grove High School
+  monday-times: 
+  tuesday-times:
+    - 5:20 PM
+  wednesday-times:
+  thursday-times:
+    - 5:20 PM
+  friday-times:

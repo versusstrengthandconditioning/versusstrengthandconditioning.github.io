@@ -1,18 +1,27 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-  </head>
-  <body>
-    {% include navbar.html %}
-    {{ content}}
-    {% include footer.html %}
-  </body>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <script src="https://use.fontawesome.com/526cfecc16.js"></script>
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
+  <!-- Page-specific CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/{{ page.custom_css }}" />
+  <!-- Footer CSS -->
+  <link href="/assets/css/footer.css" rel="stylesheet">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+</head>
+
+<body>
+  {% include navbar.html %}
+  {{ content}}
+  {% include footer.html %}
+</body>
+
 </html>

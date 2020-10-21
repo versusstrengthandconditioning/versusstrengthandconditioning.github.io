@@ -1,0 +1,125 @@
+- location: Versus
+  monday-times: 
+    - 5:00 AM
+  tuesday-times:
+    - 5:00 AM
+  wednesday-times:
+    - 5:00 AM
+  thursday-times:
+    - 5:00 AM
+  friday-times:
+    - 5:00 AM
+
+- location: Versus
+  monday-times: 
+    - 6:00 AM
+  tuesday-times:
+    - 6:00 AM
+  wednesday-times:
+    - 6:00 AM
+  thursday-times:
+    - 6:00 AM
+  friday-times:
+    - 6:00 AM
+
+- location: Versus
+  monday-times: 
+    - 7:00 AM
+  tuesday-times:
+    - 7:00 AM
+  wednesday-times:
+  thursday-times:
+    - 7:00 AM
+  friday-times:
+    - 7:00 AM
+
+- location: Versus
+  monday-times: 
+    - 8:00 AM
+  tuesday-times:
+    - 8:00 AM
+  wednesday-times:
+    - 8:00 AM
+  thursday-times:
+    - 8:00 AM
+  friday-times:
+    - 8:00 AM
+
+- location: Versus
+  monday-times: 
+    - 9:00 AM
+  tuesday-times:
+    - 9:00 AM
+  wednesday-times:
+    - 9:00 AM
+  thursday-times:
+    - 9:00 AM
+  friday-times:
+    - 9:00 AM
+
+- location: Versus
+  monday-times: 
+    - 10:00 AM
+  tuesday-times:
+  wednesday-times:
+    - 10:00 AM
+  thursday-times:
+  friday-times:
+    - 10:00 AM
+
+- location: Versus
+  monday-times: 
+    - 11:30 AM
+  tuesday-times:
+  wednesday-times:
+    - 11:30 AM
+  thursday-times:
+  friday-times:
+    - 11:30 AM
+
+- location: Versus
+  monday-times: 
+    - 3:00 PM
+  tuesday-times:
+    - 3:30 PM
+  wednesday-times:
+    - 3:00 PM
+  thursday-times:
+    - 3:30 PM
+  friday-times:
+    - 3:00 PM
+
+- location: Versus
+  monday-times: 
+    - 4:00 PM
+  tuesday-times:
+    - 4:30 PM
+  wednesday-times:
+    - 4:00 PM
+  thursday-times:
+    - 4:30 PM
+  friday-times:
+    - 4:00 PM
+
+- location: Versus
+  monday-times: 
+    - 5:00 PM
+  tuesday-times:
+    - 5:30 PM
+  wednesday-times:
+    - 5:00 PM
+  thursday-times:
+    - 5:30 PM
+  friday-times:
+    - 5:00 PM
+
+- location: Versus
+  monday-times: 
+    - 6:00 PM
+  tuesday-times:
+    - 6:30 PM
+  wednesday-times:
+    - 6:00 PM
+  thursday-times:
+    - 6:30 PM
+  friday-times:
